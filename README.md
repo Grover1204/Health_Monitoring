@@ -20,5 +20,4 @@ Sensor info
 
 firebase
 <img width="1440" alt="Screenshot 2022-03-01 at 3 11 57 PM" src="https://user-images.githubusercontent.com/97908707/156144776-3cb17dad-1ccf-4fda-83b4-fb49f918981b.png">
-
-<img width="1440" alt="Screenshot 2022-03-01 at 2 58 50 PM" src="https://user-images.githubusercontent.com/97908707/156144788-b406eb8b-de32-4ceb-9119-328034016d70.png">
+<img width="1440" alt="Screenshot 2022-03-01 at 2 59 33 PM" src="https://user-images.githubusercontent.com/97908707/156144912-015b0c73-6518-4810-861e-85dbe86dd26f.png">
